@@ -1,5 +1,10 @@
 package simul;
 
+import java.awt.Point;
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 
 import Calcuations.CalculationFactory;
@@ -464,11 +469,56 @@ public class DistrictManager {
 		for (District t: d) {
 			boolean isDemocrat = t.isDemocrat;
 			t.holdElection(k1, k2);
-			t.adjustPVI(CalculationFactory.getPVIAdjustment(t.pvi));
+			t.adjustPVI(CalculationFactory.getPVIAdjustment(t.pvi, t.gerrymanderedRating));
 			if(isDemocrat != t.isDemocrat) {
 				numSwitched++;
 			}
 		}
+	}
+	
+	public void getGerrymanderedRatings() {
+		String csvFile = "/Users/Janine/Documents/CongressionalDistricts.csv";
+	      BufferedReader br = null;
+	      String line = "";
+	      String cvsSplitBy = ",";
+	      ArrayList<Point> l = new ArrayList<Point>();
+	      try {
+
+	          br = new BufferedReader(new FileReader(csvFile));
+	          
+	          
+	          while ((line = br.readLine()) != null) {
+	        	  //System.out.println(br.readLine());
+	             
+	              // use comma as separator
+	            String[] coord = line.split(cvsSplitBy);
+	            if (!coord[1].equals("State")) {
+	            	String state = coord[1];
+	            	int district = Integer.parseInt(coord[2]);
+	            	double gerryScore = Double.parseDouble(coord[3]);
+	            	for (District d: this.d) {
+	    				if (d.state.equals(state) && d.number == district) {
+	    					d.setGerrymanderedRating(gerryScore);
+	    					break;
+	    				}
+	    			}
+	            }
+	          }
+
+	      } catch (FileNotFoundException e) {
+	          e.printStackTrace();
+	      } catch (IOException e) {
+	          e.printStackTrace();
+	      } finally {
+	          if (br != null) {
+	              try {
+	                  br.close();
+	              } catch (IOException e) {
+	                  e.printStackTrace();
+	              }
+	          }
+	      }
+		
 	}
 	
 	public int getYear() {

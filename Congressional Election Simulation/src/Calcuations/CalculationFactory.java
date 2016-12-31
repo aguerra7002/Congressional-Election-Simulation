@@ -49,6 +49,7 @@ public class CalculationFactory {
 	public static double getK2Val(int year) {
 		//K-predictor function goes here
 		double k = oldK2Val + (Math.floor(Math.random() * 7) - 3) / 10;
+		//System.out.println(k);
 		if(k < -3 ) {
 			k++;
 		} else if (k > 3) {
@@ -66,12 +67,23 @@ public class CalculationFactory {
 		return probability;
 	}
 	
-	public static double getPVIAdjustment(double pvi) {
+	public static double getPVIAdjustment(double pvi, double gScore) {
+		double g = gScore / 100;
+		boolean rep = pvi > 0 ? true : false;
+		
+		double pviMod = Math.pow(Math.abs(pvi), .5);
+		double k = 2;
+		double leConstant = (g * pviMod) / k; 
 		double adjustment;
 		if (!actual) {
-			adjustment = -1 * pvi / 50;
-			double randoFactor = (Math.random() * 3) - 1;
-			adjustment *= randoFactor;
+			if (leConstant >= 1) {
+				adjustment = (Math.random() * (leConstant + 1)) - 1;
+			} else {
+				adjustment = (Math.random() * 2) - 1;
+			}
+			if (rep) {
+				adjustment *= -1;
+			}
 		//Add some randomness to PVI Adjustments here
 		} else {
 			adjustment = 0;

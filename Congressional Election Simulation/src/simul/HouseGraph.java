@@ -34,9 +34,11 @@ public class HouseGraph extends JPanel {
 			int x = (i % width)* 20 % width;
 			int y = ((i*20)/width) * 20;
 			g.fillOval(x + 5, y + 5, 20, 20);
+			//System.out.println(d.get(i).pvi + "\t" + d.get(i).gerrymanderedRating);
 		}
 		g.drawString("Democrat Seats: " + dem + "  Republican Seats: " + rep, 5, getHeight() - 20);
 		System.out.println(dm.getYear() + "\t" + dem + "\t" + rep + "\t" + dm.getYear() + "\t" + dm.getK() + "\t" + dm.getYear() + "\t" + dm.getSwing() + "\t" + dm.getYear() + "\t" + dm.getNumSwitched());
+		
 	}
 
 }

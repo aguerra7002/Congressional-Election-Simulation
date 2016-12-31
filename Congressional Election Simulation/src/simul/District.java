@@ -10,9 +10,12 @@ public class District {
 	int number;
 	boolean isDemocrat;
 	double pvi;
+	int party;
+	double gerrymanderedRating;
 	List<Boolean> history; //might use?
 	
 	public District(String state, int number, boolean isDemocrat, double pvi) {
+		gerrymanderedRating = 0; //Default value
 		this.state = state;
 		this.number = number;
 		this.isDemocrat = isDemocrat;
@@ -47,6 +50,21 @@ public class District {
 			return state + " " + number + "th";
 		}
 		
+	}
+	public boolean getIsDemocrat() {
+		return isDemocrat;
+	}
+	
+	public void setParty(int party) {
+		this.party = party;
+	}
+	
+	public void setGerrymanderedRating(double rating) {
+		gerrymanderedRating = rating;
+	}
+	
+	public int getParty() {
+		return party;
 	}
 	
 	

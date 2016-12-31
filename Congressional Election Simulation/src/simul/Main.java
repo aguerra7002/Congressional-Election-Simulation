@@ -21,7 +21,7 @@ public class Main extends JFrame{
 		//Layout Stuff Here
 		dm = DistrictManager.getInstance();
 		dm.initializeDistricts();
-		
+		dm.getGerrymanderedRatings();
 		sdg = new SwingDistrictGraph();
 		hg = new HouseGraph();
 		cb = new ControlBar(2012, this);
