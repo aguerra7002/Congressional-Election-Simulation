@@ -1,0 +1,419 @@
+Rank,State,District,Gerrymander Score,Geometry,Party
+144,Alabama,4,81.72,,R
+115,Alabama,1,83.79,,R
+284,Alabama,5,71.32,,R
+84,Alabama,6,86.24,,R
+75,Alabama,7,86.87,,D
+204,Alabama,3,77.76,,R
+207,Alabama,2,77.6,,R
+410,Arizona,5,47.9,,R
+174,Arizona,1,79.59,,D
+375,Arizona,7,57.95,,D
+406,Arizona,2,51.04,,D
+170,Arizona,8,79.83,,R
+248,Arizona,3,73.95,,D
+103,Arizona,9,84.42,,D
+55,Arizona,4,87.89,,R
+310,Arizona,6,68.29,,R
+240,Arkansas,2,75.54,,R
+87,Arkansas,3,85.99,,R
+73,Arkansas,1,87.03,,R
+283,Arkansas,4,71.77,,R
+322,California,37,67.15,,D
+257,California,16,73.69,,D
+223,California,18,76.86,,D
+288,California,4,70.76,,R
+120,California,5,83.42,,D
+149,California,41,80.95,,D
+30,California,31,91.23,,R
+126,California,47,83.23,,D
+49,California,42,88.73,,R
+150,California,26,80.92,,D
+208,California,50,77.54,,R
+349,California,36,63.21,,D
+289,California,1,70.75,,R
+342,California,13,63.75,,D
+264,California,46,73.37,,D
+189,California,29,78.66,,D
+339,California,12,64.41,,D
+146,California,38,81.39,,D
+228,California,11,76.35,,D
+179,California,39,79.12,,R
+329,California,9,65.34,,D
+131,California,22,82.75,,R
+137,California,2,82.14,,D
+61,California,32,87.56,,D
+251,California,48,73.89,,R
+230,California,51,76.28,,D
+156,California,21,80.75,,R
+203,California,25,77.83,,R
+167,California,6,79.99,,D
+157,California,49,80.73,,R
+243,California,17,75.1,,D
+267,California,14,73.27,,D
+206,California,27,77.61,,D
+105,California,53,84.4,,D
+53,California,52,88.07,,D
+129,California,28,82.99,,D
+195,California,19,78.15,,D
+101,California,3,84.53,,D
+296,California,15,69.96,,D
+323,California,10,67.06,,R
+155,California,33,80.77,,D
+161,California,30,80.5,,D
+162,California,23,80.26,,R
+158,California,24,80.7,,D
+371,California,20,59.12,,D
+196,California,40,78.15,,D
+287,California,43,70.82,,D
+268,California,34,73,,D
+205,California,35,77.65,,D
+388,California,7,54.84,,D
+280,California,8,71.95,,R
+225,California,44,76.7,,D
+318,California,45,67.58,,R
+353,Colorado,4,62.93,,R
+52,Colorado,6,88.12,,R
+214,Colorado,2,77.3,,D
+337,Colorado,3,64.52,,R
+365,Colorado,5,59.99,,R
+94,Colorado,7,85.36,,D
+38,Colorado,1,90.14,,D
+384,Connecticut,2,56.02,,D
+164,Connecticut,3,80.16,,D
+134,Connecticut,1,82.43,,D
+211,Connecticut,5,77.43,,D
+316,Connecticut,4,67.69,,D
+372,Florida,8,58.8,,R
+321,Florida,11,67.22,,R
+190,Florida,7,78.52,,R
+165,Florida,10,80.11,,R
+258,Florida,15,73.66,,R
+246,Florida,6,74.39,,R
+364,Florida,12,60.19,,R
+299,Florida,19,69.67,,
+224,Florida,23,76.85,,D
+198,Florida,20,78.09,,D
+382,Florida,13,56.61,,R
+172,Florida,26,79.67,,D
+282,Florida,24,71.79,,D
+378,Florida,27,57.15,,R
+334,Florida,17,64.89,,R
+74,Florida,4,86.96,,R
+343,Florida,3,63.43,,R
+374,Florida,2,58.1,,R
+71,Florida,22,87.11,,D
+245,Florida,14,74.94,,D
+357,Florida,1,62.09,,R
+314,Florida,25,67.96,,R
+313,Florida,9,68.04,,D
+3,Florida,5,96.14,,D
+402,Florida,18,52.67,,D
+399,Florida,16,52.94,,R
+262,Florida,21,73.59,,D
+275,Georgia,10,72.53,,R
+295,Georgia,9,70.14,,R
+109,Georgia,8,84.25,,R
+279,Georgia,11,72.1,,R
+277,Georgia,3,72.14,,R
+300,Georgia,2,69.27,,D
+274,Georgia,6,72.6,,R
+269,Georgia,4,73,,D
+302,Georgia,14,69.14,,R
+348,Georgia,5,63.22,,D
+116,Georgia,13,83.71,,D
+261,Georgia,7,73.6,,R
+141,Georgia,12,81.84,,D
+202,Georgia,1,77.96,,R
+119,Illinois,14,83.45,,R
+178,Illinois,15,79.19,,R
+56,Illinois,11,87.85,,D
+226,Illinois,16,76.54,,R
+57,Illinois,8,87.74,,D
+32,Illinois,5,90.75,,D
+122,Illinois,3,83.38,,D
+237,Illinois,12,76.01,,D
+148,Illinois,13,81.16,,R
+145,Illinois,10,81.66,,D
+70,Illinois,9,87.13,,D
+218,Illinois,18,77.21,,R
+17,Illinois,7,92.39,,D
+9,Illinois,4,94.55,,D
+62,Illinois,1,87.54,,D
+159,Illinois,17,80.69,,D
+46,Illinois,6,89.12,,R
+338,Illinois,2,64.49,,D
+416,Indiana,1,42.11,,D
+398,Indiana,2,53.03,,R
+331,Indiana,5,65.16,,R
+182,Indiana,8,78.97,,R
+376,Indiana,4,57.63,,R
+395,Indiana,6,53.31,,R
+340,Indiana,9,64.31,,R
+408,Indiana,3,48.33,,R
+407,Indiana,7,48.82,,D
+328,Iowa,2,65.55,,D
+292,Iowa,1,70.68,,D
+404,Iowa,3,51.41,,R
+379,Iowa,4,57.04,,R
+390,Kansas,3,54.36,,R
+377,Kansas,1,57.56,,R
+369,Kansas,4,59.63,,R
+333,Kansas,2,65.04,,R
+51,Kentucky,2,88.42,,R
+68,Kentucky,1,87.22,,R
+346,Kentucky,3,63.3,,D
+235,Kentucky,5,76.12,,R
+72,Kentucky,4,87.08,,R
+128,Kentucky,6,83.2,,R
+40,Louisiana,5,90.08,,R
+14,Louisiana,6,92.75,,R
+308,Louisiana,3,68.35,,R
+11,Louisiana,2,94.34,,D
+108,Louisiana,1,84.28,,R
+112,Louisiana,4,84.02,,R
+23,Maryland,8,91.82,,D
+13,Maryland,2,93.62,,D
+31,Maryland,7,91.17,,D
+16,Maryland,6,92.52,,D
+2,Maryland,3,96.72,,D
+114,Maryland,1,83.94,,R
+306,Maryland,5,68.83,,D
+34,Maryland,4,90.6,,D
+215,Massachusetts,3,77.26,,D
+121,Massachusetts,5,83.4,,D
+272,Massachusetts,2,72.77,,D
+359,Massachusetts,6,61.58,,D
+305,Massachusetts,1,68.92,,D
+18,Massachusetts,7,92.38,,D
+79,Massachusetts,8,86.56,,D
+286,Massachusetts,9,70.95,,D
+124,Massachusetts,4,83.35,,D
+347,Michigan,1,63.29,,R
+242,Michigan,3,75.25,,R
+400,Michigan,10,52.89,,R
+43,Michigan,14,89.65,,D
+197,Michigan,12,78.14,,D
+192,Michigan,5,78.49,,D
+143,Michigan,13,81.78,,D
+360,Michigan,4,61.09,,R
+294,Michigan,7,70.38,,R
+413,Michigan,6,44.42,,R
+104,Michigan,11,84.41,,R
+381,Michigan,2,56.77,,R
+135,Michigan,9,82.32,,D
+350,Michigan,8,63.17,,R
+341,Minnesota,5,64,,D
+201,Minnesota,7,77.97,,D
+212,Minnesota,6,77.38,,R
+276,Minnesota,3,72.15,,R
+414,Minnesota,4,43.57,,D
+330,Minnesota,8,65.29,,D
+319,Minnesota,1,67.57,,D
+317,Minnesota,2,67.66,,R
+117,Mississippi,3,83.7,,R
+97,Mississippi,2,85.12,,D
+326,Mississippi,1,65.92,,R
+368,Mississippi,4,59.64,,R
+335,Missouri,8,64.8,,R
+387,Missouri,7,54.91,,R
+229,Missouri,6,76.3,,R
+222,Missouri,4,76.92,,R
+209,Missouri,3,77.52,,R
+271,Missouri,1,72.89,,D
+163,Missouri,2,80.17,,R
+160,Missouri,5,80.56,,D
+385,Nebraska,2,55.5,,R
+320,Nebraska,1,67.4,,R
+356,Nebraska,3,62.1,,R
+417,Nevada,1,41.96,,D
+418,Nevada,2,41.87,,R
+373,Nevada,3,58.67,,R
+409,Nevada,4,48.29,,D
+259,New Jersey,1,73.64,,
+69,New Jersey,10,87.13,,D
+186,New Jersey,5,78.88,,R
+133,New Jersey,9,82.47,,D
+151,New Jersey,3,80.92,,R
+123,New Jersey,12,83.35,,D
+181,New Jersey,7,79.07,,R
+85,New Jersey,6,86.17,,D
+332,New Jersey,2,65.11,,R
+200,New Jersey,4,77.98,,R
+42,New Jersey,8,89.65,,D
+210,New Jersey,11,77.45,,R
+263,New Mexico,1,73.47,,D
+358,New Mexico,3,61.97,,D
+367,New Mexico,2,59.69,,R
+386,New York,2,55.26,,R
+412,New York,15,46.15,,D
+312,New York,27,68.08,,R
+397,New York,11,53.15,,R
+35,New York,10,90.55,,D
+309,New York,23,68.34,,R
+247,New York,5,74.06,,D
+249,New York,19,73.93,,R
+352,New York,26,63.05,,D
+327,New York,20,65.55,,D
+188,New York,22,78.7,,R
+383,New York,24,56.36,,D
+216,New York,14,77.26,,D
+303,New York,9,69.1,,D
+37,New York,7,90.25,,D
+392,New York,1,54.22,,D
+304,New York,18,68.95,,D
+401,New York,17,52.85,,D
+311,New York,12,68.29,,D
+169,New York,8,79.87,,D
+394,New York,4,53.92,,D
+336,New York,6,64.57,,D
+285,New York,13,71.04,,D
+396,New York,3,53.25,,D
+391,New York,21,54.32,,D
+355,New York,16,62.2,,D
+411,New York,25,46.35,,D
+217,North Carolina,8,77.23,,R
+28,North Carolina,9,91.53,,R
+12,North Carolina,13,93.93,,R
+7,North Carolina,4,95.15,,D
+111,North Carolina,5,84.13,,R
+221,North Carolina,10,76.93,,R
+45,North Carolina,2,89.15,,R
+44,North Carolina,3,89.56,,R
+65,North Carolina,7,87.38,,D
+1,North Carolina,12,97.05,,
+4,North Carolina,1,95.92,,D
+60,North Carolina,6,87.6,,R
+194,North Carolina,11,78.37,,R
+92,Ohio,15,85.44,,R
+98,Ohio,4,85.03,,R
+66,Ohio,7,87.29,,R
+180,Ohio,9,79.1,,D
+361,Ohio,10,61.08,,R
+90,Ohio,12,85.71,,R
+273,Ohio,8,72.69,,R
+110,Ohio,1,84.21,,R
+48,Ohio,16,88.75,,R
+236,Ohio,2,76.02,,R
+10,Ohio,3,94.37,,D
+96,Ohio,6,85.17,,R
+325,Ohio,14,66.33,,R
+27,Ohio,13,91.61,,D
+307,Ohio,5,68.52,,R
+76,Ohio,11,86.8,,D
+254,Oklahoma,2,73.8,,R
+177,Oklahoma,1,79.4,,R
+266,Oklahoma,5,73.32,,R
+244,Oklahoma,4,75.06,,R
+270,Oklahoma,3,72.99,,R
+281,Oregon,1,71.84,,D
+405,Oregon,2,51.14,,R
+95,Oregon,5,85.33,,D
+238,Oregon,3,75.92,,D
+366,Oregon,4,59.72,,D
+362,Pennsylvania,2,60.85,,D
+80,Pennsylvania,11,86.4,,R
+91,Pennsylvania,10,85.49,,R
+39,Pennsylvania,12,90.12,,R
+19,Pennsylvania,13,92.35,,D
+82,Pennsylvania,9,86.33,,R
+5,Pennsylvania,7,95.9,,R
+265,Pennsylvania,5,73.34,,R
+345,Pennsylvania,8,63.35,,R
+130,Pennsylvania,18,82.98,,R
+26,Pennsylvania,17,91.68,,D
+50,Pennsylvania,14,88.57,,D
+193,Pennsylvania,3,78.44,,R
+24,Pennsylvania,6,91.79,,R
+363,Pennsylvania,4,60.37,,R
+89,Pennsylvania,15,85.72,,R
+67,Pennsylvania,16,87.26,,R
+20,Pennsylvania,1,92.08,,D
+324,South Carolina,3,66.73,,R
+127,South Carolina,2,83.21,,R
+22,South Carolina,6,91.94,,D
+297,South Carolina,7,69.91,,R
+187,South Carolina,5,78.75,,R
+41,South Carolina,1,89.85,,R
+256,South Carolina,4,73.71,,R
+219,Tennessee,7,77,,R
+88,Tennessee,4,85.92,,R
+231,Tennessee,6,76.24,,R
+168,Tennessee,9,79.92,,D
+54,Tennessee,3,87.92,,R
+213,Tennessee,1,77.33,,R
+291,Tennessee,5,70.69,,D
+47,Tennessee,2,88.83,,R
+260,Tennessee,8,73.63,,R
+58,Texas,34,87.73,,D
+153,Texas,27,80.81,,R
+142,Texas,20,81.81,,D
+113,Texas,25,84,,R
+154,Texas,21,80.77,,R
+93,Texas,22,85.43,,R
+8,Texas,35,94.58,,D
+59,Texas,15,87.6,,D
+191,Texas,6,78.49,,R
+253,Texas,13,73.83,,R
+106,Texas,14,84.39,,R
+63,Texas,32,87.53,,R
+15,Texas,2,92.62,,R
+393,Texas,26,53.98,,R
+132,Texas,4,82.48,,R
+171,Texas,1,79.69,,R
+354,Texas,3,62.84,,R
+183,Texas,23,78.94,,D
+29,Texas,29,91.39,,D
+220,Texas,12,76.98,,R
+166,Texas,11,79.99,,R
+139,Texas,30,81.91,,D
+102,Texas,9,84.46,,D
+78,Texas,5,86.77,,R
+184,Texas,24,78.92,,R
+389,Texas,31,54.52,,R
+185,Texas,36,78.89,,R
+227,Texas,8,76.49,,R
+278,Texas,19,72.12,,R
+81,Texas,7,86.39,,R
+83,Texas,28,86.32,,D
+100,Texas,10,84.61,,R
+21,Texas,18,92.02,,D
+152,Texas,17,80.88,,R
+6,Texas,33,95.5,,D
+415,Texas,16,43.48,,D
+344,Utah,2,63.4,,R
+290,Utah,1,70.75,,R
+176,Utah,3,79.44,,R
+239,Utah,4,75.6,,D
+255,Virginia,8,73.78,,D
+33,Virginia,11,90.68,,D
+173,Virginia,2,79.6,,R
+25,Virginia,3,91.72,,D
+140,Virginia,9,81.84,,R
+99,Virginia,5,84.66,,R
+64,Virginia,10,87.49,,R
+77,Virginia,7,86.78,,R
+118,Virginia,6,83.68,,R
+175,Virginia,4,79.54,,R
+136,Virginia,1,82.18,,R
+241,Washington,2,75.25,,D
+403,Washington,6,51.92,,D
+301,Washington,3,69.25,,R
+107,Washington,9,84.32,,D
+233,Washington,4,76.2,,R
+234,Washington,10,76.14,,D
+298,Washington,7,69.82,,D
+147,Washington,8,81.22,,R
+199,Washington,1,78.07,,D
+370,Washington,5,59.62,,R
+138,West Virginia,3,82.09,,D
+36,West Virginia,2,90.47,,R
+86,West Virginia,1,86.05,,R
+293,Wisconsin,1,70.65,,R
+252,Wisconsin,7,73.86,,R
+125,Wisconsin,3,83.31,,D
+232,Wisconsin,5,76.21,,R
+315,Wisconsin,8,67.86,,R
+351,Wisconsin,4,63.14,,D
+380,Wisconsin,2,56.94,,D
+250,Wisconsin,6,73.9,,R
